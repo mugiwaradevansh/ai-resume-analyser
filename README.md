@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="public/banner.png" alt="AI Resume Analyzer" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);" />
 
   <br />
   <br />
@@ -38,9 +37,6 @@
 
 > **Note**: Replace this placeholder with a recording of your awesome app in action!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF4b3Z5a3AzeG5ybnJ5ZnJ5ZnJ5ZnJ5ZnJ5ZnJ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2QlXq37B9Cg/giphy.gif" alt="Demo GIF Placeholder" width="800" style="border-radius: 10px;" />
-</div>
 
 ## ✨ Key Features
 
