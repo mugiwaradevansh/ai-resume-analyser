@@ -95,6 +95,23 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
+## 🚀 Deployment
+
+### Deploy to Netlify
+
+This project is configured for **Client-Side Rendering (SPA)**, making deployment super easy.
+
+1.  **Fork this repository**.
+2.  Log in to [Netlify](https://www.netlify.com/).
+3.  Click **"Add new site"** > **"Import an existing project"**.
+4.  Select your GitHub repository.
+5.  Netlify will detect the `netlify.toml` and configure the settings automatically:
+    - **Build Command**: `npm run build`
+    - **Publish Directory**: `build/client`
+6.  Click **Deploy**.
+
+That's it! Your AI Resume Analyzer will be live in minutes.
+
 ## 🤝 Community & Support
 
 Join the conversation and help improve AI Resume Analyzer!
