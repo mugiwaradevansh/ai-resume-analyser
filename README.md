@@ -9,7 +9,6 @@
   [![Tailwind CSS v4](https://img.shields.io/badge/Styling-Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Puter.js](https://img.shields.io/badge/Cloud_&_AI-Puter.js-Platform-purple?style=for-the-badge&logo=cloud&logoColor=white)](https://puter.com/)
-  [![Vite](https://img.shields.io/badge/Build-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
   <br />
 
@@ -33,9 +32,6 @@
 
 **AI Resume Analyzer** isn't just a tool; it's your personal career copilot. Leveraging advanced **LLMs via Puter.js**, it deconstructs your resume to provide granular, actionable feedback. Built with the **latest web technologies** like React Router v7 and Tailwind v4, it offers an app-like experience that feels instantaneous and looks stunning.
 
-## 📺 Demo
-
-> **Note**: Replace this placeholder with a recording of your awesome app in action!
 
 
 ## ✨ Key Features
